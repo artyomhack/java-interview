@@ -7,6 +7,7 @@
 + [Полезные ссылки](jvm.md#Полезные-ссылки)
 
 ## За что отвечает _JVM_:
+https://coderlessons.com/articles/java/arkhitektura-jvm-zagruzchik-klassov-jvm-i-oblasti-dannykh-vremeni-vypolneniia
 
 + Загрузка, проверка и исполнение байт кода;
 + Предоставление среды выполнения для выполнения байт-кода;
